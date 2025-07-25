@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+google-search-results
+Flask
+Flask-Cors
+python-dotenv
